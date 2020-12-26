@@ -1,0 +1,2 @@
+- Disable auto brightness in Settings
+- Disable transparency in Accessibility
